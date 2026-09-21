@@ -1,0 +1,32 @@
+# Generated datasets — reproducible by running the pipeline scripts
+hr_attrition_clean.csv
+hr_attrition_features.csv
+ml_dataset.csv
+X_train.csv
+X_test.csv
+y_train.csv
+y_test.csv
+
+# Generated database
+hr_attrition.db
+
+# Fitted model artefacts
+preprocessor.pkl
+*.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
