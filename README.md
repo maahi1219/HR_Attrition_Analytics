@@ -153,6 +153,5 @@ All 10 null hypotheses rejected at α = 0.05 using Chi-squared (categorical) and
 
 ## Author
 
-**[Your Name]**  
-Course: [Course Name]  
-Date: 2025
+MAAHI SHARMA   
+
